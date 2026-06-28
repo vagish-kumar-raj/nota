@@ -1,2 +1,2 @@
-# [NoTa](https://github.com/vagish-kumar-raj/nota)
+# NoTa
 A modern note-taking web app.
